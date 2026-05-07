@@ -63,6 +63,7 @@ header {
     object-fit: cover;
     object-position: center;
     border-radius: 50%;
+    transition: opacity 0.2s ease-in-out;
 }
 
 .contact h2 {
